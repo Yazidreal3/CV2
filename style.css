@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(236, 220, 202);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* address section */
+#address{
+    padding-top: 40px;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+#About_me{
+    width: 80%;
+    background-color: rgb(255, 219, 142);
+    height: auto;
+    margin: 0%  10%;
+}
+
+.about_left{
+    width: 45%;
+    float: left;
+    padding: 0 0 0 3%;
+}
+
+.about_right{
+    width: 50%;
+    display: inline-block;
+    line-height: 2rem;
+}
+
+ #Skills{
+    width: 80%;
+    background-color: rgb(127, 255, 202);
+    height: auto;
+    margin: 0 10% 0 10%;
+    line-height: 2rem;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+#Cv{
+    width: 80%;
+    background-color: rgb(255, 219, 142);
+    height: auto;
+    margin: 0 10% 0 10%;
+    line-height: 2rem;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+#Contact{
+    width: 80%;
+    background-color: rgb(203, 217, 235);
+    height: auto;
+    margin: 0 10% 0 10%;
+    line-height: 2rem;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+input[type=text], input[type=textarea], input[type=email]{
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    background-color: rgb(241, 232, 219);
+    width: 80%;
+    margin-left: 10px;
+
+}
+
+input[type=submit]{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(209, 202, 194);
+    border: none;
+}
